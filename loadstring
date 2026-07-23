@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Iiwxrt/YARHM/main/YARHM.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Iiwxrt/YARHM/main/night.lua'))()
